@@ -27,7 +27,7 @@ i2c_mcu: rp2040
 i2c_bus: i2c0a
 vcomh: 31
 x_offset: 2
-encoder_pins: ^rp2040:gpio7, ^rp2040:gpio6
+encoder_pins: ^rp2040:gpio6, ^rp2040:gpio7
 click_pin: ^!rp2040:gpio8
 kill_pin: ^!rp2040:gpio5
 

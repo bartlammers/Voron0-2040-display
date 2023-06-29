@@ -1,0 +1,43 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7uF,C_0603_1608Metric,100.07,-67.205,270.0,bottom
+C2,4.7uF,C_0603_1608Metric,105.52,-66.975,90.0,bottom
+C3,30pf,C_0402_1005Metric,118.76,-60.22,90.0,bottom
+C4,30pf,C_0402_1005Metric,124.07,-62.16,90.0,bottom
+C5,0.1uf,C_0402_1005Metric,117.32,-77.55,270.0,bottom
+C6,0.1uf,C_0402_1005Metric,119.77,-64.8,180.0,bottom
+C7,0.1uf,C_0402_1005Metric,106.02,-61.75,0.0,bottom
+C8,0.1uf,C_0402_1005Metric,107.08,-77.99,90.0,bottom
+C9,1uf,C_0402_1005Metric,107.27,-64.95,0.0,bottom
+C10,1uf,C_0402_1005Metric,107.27,-67.0,0.0,bottom
+C11,0.1uf,C_0402_1005Metric,119.77,-63.8,180.0,bottom
+C12,0.1uf,C_0402_1005Metric,109.12,-58.15,0.0,bottom
+C13,0.1uf,C_0402_1005Metric,115.62,-57.95,180.0,bottom
+C14,0.1uf,C_0402_1005Metric,109.92,-68.05,0.0,bottom
+C15,0.1uf,C_0402_1005Metric,115.02,-67.75,180.0,bottom
+C16,0.1uf,C_0402_1005Metric,107.27,-66.0,0.0,bottom
+C17,0.1uf,C_0402_1005Metric,106.62,-63.25,0.0,bottom
+D1,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,159.92,-62.15,0.0,top
+J2,I2C Header 1,1pt3in_OLED,113.47,-67.4,0.0,top
+J3,SWD,PinHeader_1x05_P2.54mm_Vertical,113.87,-73.12,270.0,bottom
+J4,USB-TYPE-C-018,GCT_USB4105-GF-A,87.92,-67.13,90.0,bottom
+J7,USB_Header,PinHeader_1x04_P2.54mm_Vertical,97.22,-65.75,180.0,bottom
+J8,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,147.025,-54.26,90.0,bottom
+L1,120R 100MHZ,L_0402_1005Metric,107.77,-68.05,180.0,bottom
+R1,1K,R_0603_1608Metric,119.36,-78.26,90.0,bottom
+R2,1k,R_0402_1005Metric,118.75,-62.16,270.0,bottom
+R3,10k,R_0603_1608Metric,115.15,-69.75,270.0,bottom
+R4,10k,R_0603_1608Metric,113.69,-69.75,270.0,bottom
+R5,5.1K,R_0402_1005Metric,92.32,-73.05,180.0,bottom
+R6,5.1K,R_0402_1005Metric,92.32,-61.15,0.0,bottom
+R7,27R,R_0402_1005Metric,104.05,-63.19,0.0,bottom
+R8,27R,R_0402_1005Metric,104.03,-64.19,180.0,bottom
+SW1,RESET,SW_PUSH_6mm,101.47,-75.395,0.0,bottom
+SW5,BOOTSEL,SW_PUSH_6mm,125.725,-75.395,0.0,bottom
+SW6,Killswitch,SW_PUSH_6mm,159.92,-72.15,0.0,top
+SW7,Rotary_Encoder_Switch,EN11_Encoder,144.42,-67.4,0.0,top
+U1,AP2127K-3.3,SOT-23-5,102.82,-67.295,180.0,bottom
+U2,USBLC6-2P6,SOT-666,101.195,-62.45,180.0,bottom
+U3,74LVC1G17,SOT-753,124.81,-66.9,90.0,bottom
+U4,W25Q16JVUXIQ_TR,IC_W25Q16JVUXIQ_TR,104.13,-58.3775,270.0,bottom
+U5,RP2040,RP2040-QFN-56,113.0,-63.0,270.0,bottom
+Y1,12Mhz,Crystal_SMD_3225-4Pin_3.2x2.5mm,121.42,-60.5,0.0,bottom
